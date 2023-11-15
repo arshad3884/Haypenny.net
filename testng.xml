@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="haypenny.testComponents.Listeners"></listener>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="haypenny.testcases.BidingAndCollectingOffers"/>
+      <class name="haypenny.testcases.TradingTestCases"/>
+      <class name="haypenny.testcases.YourCurrenciesTestCases"/>
+      <class name="haypenny.testcases.VisitPoilicyandHelpTopics"/>
+      <class name="haypenny.testcases.CreateNewCurrency"/>
+      <class name="haypenny.testcases.SubmitContactRequest"/>
+      <class name="haypenny.testcases.WalletTestCases"/>
+      <class name="haypenny.testcases.PublicCurrenciesTests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

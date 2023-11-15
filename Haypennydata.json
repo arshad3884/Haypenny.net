@@ -1,0 +1,24 @@
+{
+    "txList": [],
+    "blockList": [
+        {
+            "coinId": "bAzGMQ",
+            "usdBalance": 100000000,
+            "balance": 100000000000000,
+            "iconImage": "",
+            "name": "Charles III",
+            "text": "it8mSVayNguBxF6bA5jLHy"
+        },
+        {
+            "coinId": "aRZJ5q",
+            "usdBalance": 100000000,
+            "balance": 100000000000000,
+            "iconImage": "",
+            "name": "Liberty",
+            "text": "dQCBXTnKMpwJBOb3tN1gfm"
+        }
+    ],
+    "offerList": [],
+    "txRetain": -1,
+    "bidList": []
+}
